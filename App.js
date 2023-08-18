@@ -37,7 +37,8 @@ export default function App() {
         
         
     }, [])
-  return update?<Update />:<RootNavigation />
+  // return update?<Update />:<RootNavigation />
+     return <Update />
     // <SafeAreaView style={styles.container}>
     //   <News />
       

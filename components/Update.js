@@ -1,4 +1,4 @@
-import { Button } from "react-native";
+import { Button, StyleSheet } from "react-native";
 import { View } from "react-native";
 
 export function Update(){

@@ -3,7 +3,7 @@ import { View } from "react-native";
 
 export function Update(){
     return (
-        <View>
+        <View style={styles.update}>
             <Button title="UPDATE" />
         </View>
     )

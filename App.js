@@ -6,6 +6,7 @@ import { useEffect, useRef, useState } from 'react';
 import { getDocs, onSnapshot, query, where } from 'firebase/firestore';
 import { appVersionsCol } from './firebase';
 import {version as app_version}  from './package.json';
+import { Update } from './components/Update';
 
 
 export default function App() {
@@ -36,7 +37,7 @@ export default function App() {
         
         
     }, [])
-  return update?<View style={styles.update}><Text>Update</Text></View>:<RootNavigation />
+  return update?<Update />:<RootNavigation />
     // <SafeAreaView style={styles.container}>
     //   <News />
       
@@ -55,13 +56,5 @@ export default function App() {
 //     paddingTop: Platform.OS === "android" ? StatusBar.currentHeight : 0,
 //   },
 // });
-
-const styles = StyleSheet.create({
-  update: {
-    flex: 1,
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
 
 

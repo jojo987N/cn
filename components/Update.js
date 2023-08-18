@@ -4,7 +4,7 @@ import { View } from "react-native";
 export function Update(){
     return (
         <View>
-            <Button>UPDATE</Button>
+            <Button title="UPDATE" />
         </View>
     )
 }

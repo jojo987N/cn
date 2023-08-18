@@ -1,0 +1,229 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Programming with Mosh</title>
+	<atom:link href="https://programmingwithmosh.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://programmingwithmosh.com</link>
+	<description>Learn the Skills to Land Your Dream Job</description>
+	<lastBuildDate>Mon, 06 Mar 2023 16:02:58 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.21</generator>
+<site xmlns="com-wordpress:feed-additions:1">87343113</site>	<item>
+		<title>Advanced Techniques to Optimize React Performance</title>
+		<link>https://programmingwithmosh.com/javascript/advanced-techniques-to-optimize-react-performance/</link>
+		<comments>https://programmingwithmosh.com/javascript/advanced-techniques-to-optimize-react-performance/#comments</comments>
+		<pubDate>Mon, 06 Mar 2023 16:02:58 +0000</pubDate>
+		<dc:creator><![CDATA[John Calderaio]]></dc:creator>
+				<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[React]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[optimization]]></category>
+		<category><![CDATA[react]]></category>
+
+		<guid isPermaLink="false">https://programmingwithmosh.com/?p=5437</guid>
+		<description><![CDATA[<p>Tweak Your Apps for Speed This article will teach you how to optimize your React apps for speed! Many React coders don&#8217;t realize that React constantly re-renders components. If you understand what&#8217;s going on under the hood, you can adjust your React application to be extremely fast! So get comfy and make some coffee. I&#8217;m going [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://programmingwithmosh.com/javascript/advanced-techniques-to-optimize-react-performance/">Advanced Techniques to Optimize React Performance</a> appeared first on <a rel="nofollow" href="https://programmingwithmosh.com">Programming with Mosh</a>.</p>
+]]></description>
+		<wfw:commentRss>https://programmingwithmosh.com/javascript/advanced-techniques-to-optimize-react-performance/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5437</post-id>	</item>
+		<item>
+		<title>Why You Don’t Need Redux Anymore?</title>
+		<link>https://programmingwithmosh.com/react/why-you-dont-need-redux-anymore/</link>
+		<comments>https://programmingwithmosh.com/react/why-you-dont-need-redux-anymore/#comments</comments>
+		<pubDate>Tue, 28 Feb 2023 16:05:26 +0000</pubDate>
+		<dc:creator><![CDATA[Adhithi Ravichandran]]></dc:creator>
+				<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[React]]></category>
+		<category><![CDATA[Redux]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[react]]></category>
+
+		<guid isPermaLink="false">https://programmingwithmosh.com/?p=5478</guid>
+		<description><![CDATA[<p>Redux has been tied with React projects for many years now. I even see job postings for React, that require Redux experience and knowledge like the one shown below: The job posting requires significant experience using React.js / Redux. Well they are not the same, and why would someone need significant experience with Redux to [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://programmingwithmosh.com/react/why-you-dont-need-redux-anymore/">Why You Don’t Need Redux Anymore?</a> appeared first on <a rel="nofollow" href="https://programmingwithmosh.com">Programming with Mosh</a>.</p>
+]]></description>
+		<wfw:commentRss>https://programmingwithmosh.com/react/why-you-dont-need-redux-anymore/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5478</post-id>	</item>
+		<item>
+		<title>Understanding Server Components in React 18 and Next.js 13</title>
+		<link>https://programmingwithmosh.com/react/understanding-server-components-in-react-18-and-next-js-13/</link>
+		<comments>https://programmingwithmosh.com/react/understanding-server-components-in-react-18-and-next-js-13/#respond</comments>
+		<pubDate>Thu, 16 Feb 2023 14:47:16 +0000</pubDate>
+		<dc:creator><![CDATA[Adhithi Ravichandran]]></dc:creator>
+				<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[React]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[Next.js]]></category>
+		<category><![CDATA[react]]></category>
+		<category><![CDATA[Web Development]]></category>
+
+		<guid isPermaLink="false">https://programmingwithmosh.com/?p=5457</guid>
+		<description><![CDATA[<p>With the release of Next.js 13, they have a new /app directory that has newer approaches to data rendering, fetching, and also uses the latest React Server Components. Note that the /app folder in Next.js 13 is still in Beta. What is Rendering? Rendering converts the code that you write into user interfaces that the user interacts with. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://programmingwithmosh.com/react/understanding-server-components-in-react-18-and-next-js-13/">Understanding Server Components in React 18 and Next.js 13</a> appeared first on <a rel="nofollow" href="https://programmingwithmosh.com">Programming with Mosh</a>.</p>
+]]></description>
+		<wfw:commentRss>https://programmingwithmosh.com/react/understanding-server-components-in-react-18-and-next-js-13/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5457</post-id>	</item>
+		<item>
+		<title>React in 2023 and Beyond</title>
+		<link>https://programmingwithmosh.com/javascript/react-in-2023-and-beyond/</link>
+		<comments>https://programmingwithmosh.com/javascript/react-in-2023-and-beyond/#respond</comments>
+		<pubDate>Sat, 04 Feb 2023 01:50:16 +0000</pubDate>
+		<dc:creator><![CDATA[Adhithi Ravichandran]]></dc:creator>
+				<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[React]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[Next.js]]></category>
+		<category><![CDATA[react]]></category>
+		<category><![CDATA[Reactjs]]></category>
+		<category><![CDATA[Remix]]></category>
+
+		<guid isPermaLink="false">https://programmingwithmosh.com/?p=5438</guid>
+		<description><![CDATA[<p>I have been developing React applications for quite a few years now, and here are my thoughts on the state of React in 2023 and beyond! React has come a long way in the last 5 years or so, and has captured the market of web development and some of mobile development (with React Native), [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://programmingwithmosh.com/javascript/react-in-2023-and-beyond/">React in 2023 and Beyond</a> appeared first on <a rel="nofollow" href="https://programmingwithmosh.com">Programming with Mosh</a>.</p>
+]]></description>
+		<wfw:commentRss>https://programmingwithmosh.com/javascript/react-in-2023-and-beyond/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5438</post-id>	</item>
+		<item>
+		<title>Top Best Practices to Build High Quality Software</title>
+		<link>https://programmingwithmosh.com/general/top-best-practices-to-build-high-quality-software/</link>
+		<comments>https://programmingwithmosh.com/general/top-best-practices-to-build-high-quality-software/#comments</comments>
+		<pubDate>Mon, 30 Jan 2023 20:40:38 +0000</pubDate>
+		<dc:creator><![CDATA[Adhithi Ravichandran]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Best Practices Coding]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[Software]]></category>
+		<category><![CDATA[Software Architecture]]></category>
+		<category><![CDATA[Tech]]></category>
+
+		<guid isPermaLink="false">https://programmingwithmosh.com/?p=5427</guid>
+		<description><![CDATA[<p>Technologies and frameworks change, but architecture principles, and best practices in writing high quality code have remained the same! Here is a LinkedIn post that I posted a few days ago, and decided to write a follow up article on what I think are the best practices to build high quality software today! Here are [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://programmingwithmosh.com/general/top-best-practices-to-build-high-quality-software/">Top Best Practices to Build High Quality Software</a> appeared first on <a rel="nofollow" href="https://programmingwithmosh.com">Programming with Mosh</a>.</p>
+]]></description>
+		<wfw:commentRss>https://programmingwithmosh.com/general/top-best-practices-to-build-high-quality-software/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5427</post-id>	</item>
+		<item>
+		<title>It’s 2023, You Should Be Using Typescript!</title>
+		<link>https://programmingwithmosh.com/backend/typescript/its-2023-you-should-be-using-typescript/</link>
+		<comments>https://programmingwithmosh.com/backend/typescript/its-2023-you-should-be-using-typescript/#respond</comments>
+		<pubDate>Tue, 17 Jan 2023 21:09:01 +0000</pubDate>
+		<dc:creator><![CDATA[Adhithi Ravichandran]]></dc:creator>
+				<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[Typescript]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[react]]></category>
+		<category><![CDATA[TypeScript]]></category>
+
+		<guid isPermaLink="false">https://programmingwithmosh.com/?p=5406</guid>
+		<description><![CDATA[<p>Hope everyone is doing well and this New Year 2023 is off to a good start. In this article, we are going to explore why you should be using TypeScript for your projects and not plain old JavaScript. The last two years or so I have been using TypeScript with most of my client&#8217;s projects. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://programmingwithmosh.com/backend/typescript/its-2023-you-should-be-using-typescript/">It’s 2023, You Should Be Using Typescript!</a> appeared first on <a rel="nofollow" href="https://programmingwithmosh.com">Programming with Mosh</a>.</p>
+]]></description>
+		<wfw:commentRss>https://programmingwithmosh.com/backend/typescript/its-2023-you-should-be-using-typescript/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5406</post-id>	</item>
+		<item>
+		<title>Top Design Patterns to master in Node/TypeScript</title>
+		<link>https://programmingwithmosh.com/javascript/top-design-patterns-to-master-in-typescript/</link>
+		<comments>https://programmingwithmosh.com/javascript/top-design-patterns-to-master-in-typescript/#comments</comments>
+		<pubDate>Tue, 12 Jul 2022 21:54:55 +0000</pubDate>
+		<dc:creator><![CDATA[Arwa Lokhandwala]]></dc:creator>
+				<category><![CDATA[Backend]]></category>
+		<category><![CDATA[Computer Science]]></category>
+		<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[Typescript]]></category>
+		<category><![CDATA[backend]]></category>
+		<category><![CDATA[clean-code]]></category>
+		<category><![CDATA[design-patterns]]></category>
+		<category><![CDATA[Interview]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[object-oriented programming]]></category>
+		<category><![CDATA[TypeScript]]></category>
+
+		<guid isPermaLink="false">https://programmingwithmosh.com/?p=5368</guid>
+		<description><![CDATA[<p>Over the years I have seen that there is one thing that separates a seasoned developer from a freshman: the extent to which they use Design Patterns! But What are Design Patterns? Design patterns are tried and tested holy grail of solutions to the most common code design problems which have stood the test of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://programmingwithmosh.com/javascript/top-design-patterns-to-master-in-typescript/">Top Design Patterns to master in Node/TypeScript</a> appeared first on <a rel="nofollow" href="https://programmingwithmosh.com">Programming with Mosh</a>.</p>
+]]></description>
+		<wfw:commentRss>https://programmingwithmosh.com/javascript/top-design-patterns-to-master-in-typescript/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5368</post-id>	</item>
+		<item>
+		<title>Top 5 Lessons Learned Building React Applications</title>
+		<link>https://programmingwithmosh.com/react/top-5-lessons-learned-building-react-applications/</link>
+		<comments>https://programmingwithmosh.com/react/top-5-lessons-learned-building-react-applications/#comments</comments>
+		<pubDate>Fri, 17 Jun 2022 03:55:17 +0000</pubDate>
+		<dc:creator><![CDATA[Adhithi Ravichandran]]></dc:creator>
+				<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[React]]></category>
+		<category><![CDATA[Best Practices]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[react]]></category>
+		<category><![CDATA[react lessons]]></category>
+
+		<guid isPermaLink="false">https://programmingwithmosh.com/?p=5339</guid>
+		<description><![CDATA[<p>I recently gave a talk on &#8220;Lessons I Learned building React Applications&#8221;, at a conference. I thought this is a good talk that needs to be documented as a blog post. So here we are. In this blog post, I am going to go over my top 5 lessons on building React applications over the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://programmingwithmosh.com/react/top-5-lessons-learned-building-react-applications/">Top 5 Lessons Learned Building React Applications</a> appeared first on <a rel="nofollow" href="https://programmingwithmosh.com">Programming with Mosh</a>.</p>
+]]></description>
+		<wfw:commentRss>https://programmingwithmosh.com/react/top-5-lessons-learned-building-react-applications/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5339</post-id>	</item>
+		<item>
+		<title>Interview Questions in Python &#8211; Singly-Linked-Lists</title>
+		<link>https://programmingwithmosh.com/interviews/interview-questions-in-python-singly-linked-lists/</link>
+		<comments>https://programmingwithmosh.com/interviews/interview-questions-in-python-singly-linked-lists/#respond</comments>
+		<pubDate>Mon, 14 Mar 2022 16:12:14 +0000</pubDate>
+		<dc:creator><![CDATA[John Calderaio]]></dc:creator>
+				<category><![CDATA[Computer Science]]></category>
+		<category><![CDATA[Data Structures]]></category>
+		<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[data structure]]></category>
+		<category><![CDATA[Interview]]></category>
+		<category><![CDATA[linked list]]></category>
+		<category><![CDATA[python]]></category>
+
+		<guid isPermaLink="false">https://programmingwithmosh.com/?p=5266</guid>
+		<description><![CDATA[<p>Welcome to this week&#8217;s Interview Questions in Python! I hope last week you learned all you could and that it leveled up your skills! This week, we&#8217;re going to be focusing on singly-linked lists, one of the most important data structures in all of Computer Science. Linked lists are used in the implementation of stacks, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://programmingwithmosh.com/interviews/interview-questions-in-python-singly-linked-lists/">Interview Questions in Python &#8211; Singly-Linked-Lists</a> appeared first on <a rel="nofollow" href="https://programmingwithmosh.com">Programming with Mosh</a>.</p>
+]]></description>
+		<wfw:commentRss>https://programmingwithmosh.com/interviews/interview-questions-in-python-singly-linked-lists/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5266</post-id>	</item>
+		<item>
+		<title>Interview Questions in Python &#8211; Regular Expressions</title>
+		<link>https://programmingwithmosh.com/interviews/interview-questions-in-python-regular-expressions/</link>
+		<comments>https://programmingwithmosh.com/interviews/interview-questions-in-python-regular-expressions/#comments</comments>
+		<pubDate>Mon, 31 Jan 2022 15:25:52 +0000</pubDate>
+		<dc:creator><![CDATA[John Calderaio]]></dc:creator>
+				<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[Interview]]></category>
+		<category><![CDATA[python]]></category>
+		<category><![CDATA[regex]]></category>
+
+		<guid isPermaLink="false">https://programmingwithmosh.com/?p=5233</guid>
+		<description><![CDATA[<p>Welcome to the first article in a series of interview questions and solutions in python! I will be walking through the solutions in detail, so you understand exactly what is going on. The solutions are written in python because it is arguably one of the easiest languages to master interview questions in &#8211; meaning you [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://programmingwithmosh.com/interviews/interview-questions-in-python-regular-expressions/">Interview Questions in Python &#8211; Regular Expressions</a> appeared first on <a rel="nofollow" href="https://programmingwithmosh.com">Programming with Mosh</a>.</p>
+]]></description>
+		<wfw:commentRss>https://programmingwithmosh.com/interviews/interview-questions-in-python-regular-expressions/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5233</post-id>	</item>
+	</channel>
+</rss>

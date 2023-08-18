@@ -1,11 +1,14 @@
-import { Button, StyleSheet } from "react-native";
+import { Button, Pressable, StyleSheet, Text } from "react-native";
 import { View } from "react-native";
 
 export function Update(){
     return (
-        <View style={styles.update}>
-            <Button title="UPDATE" />
+        <View>
+            <Pressable style={styles.update} onPress={() => {} }>
+            <Text style={styles.text}>UPDATEdfhhffhfhfhfhfhfh</Text>
+            </Pressable>
         </View>
+        
     )
 }
 
@@ -14,7 +17,11 @@ const styles = StyleSheet.create({
       flex: 1,
       alignItems: 'center',
       justifyContent: 'center',
-      padding: 10
     },
+    button: {
+       color: "red"
+    },
+
   });
+  
   
